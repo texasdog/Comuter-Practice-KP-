@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1",
+    "moment": "^2.24.0",
+    "nodemon": "^2.0.2"
+  },
+  "name": "theme2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  }
+}
