@@ -1,8 +1,8 @@
 export default class {
-    first = 'Nikita';
-    last = 'Shimko'
-
+    last = 'Andrew'
+    first = 'Anisimov';
+    
     getFullName(){
-        return `${this.first} ${this.last}`;
+        return `${this.last}${this.first}`;
     };
 };
