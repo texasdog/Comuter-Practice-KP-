@@ -13,14 +13,13 @@ var _class = function () {
         _classCallCheck(this, _class);
 
         this.last = 'Andrew';
-        this.middle = 'Sergeevich';
         this.first = 'Anisimov';
     }
 
     _createClass(_class, [{
         key: 'getFullName',
         value: function getFullName() {
-            return this.last + ' ' + this.middle + ' ' + this.first;
+            return this.last + ' ' + this.first;
         }
     }]);
 
