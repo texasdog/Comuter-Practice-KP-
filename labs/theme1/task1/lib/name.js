@@ -3,4 +3,4 @@
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-exports.default = 'N. V. Shimko';
+exports.default = 'A. Anisimov S.';
