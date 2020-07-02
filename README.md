@@ -1,1 +1,1 @@
-Работы по компьютерному практикуму
+Computer Pracrice tasks.
